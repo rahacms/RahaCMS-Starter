@@ -7,7 +7,7 @@ CONTENTS OF THIS FILE
  * Appearance
  * Developing for Drupal
 
-ABOUT DRUPAL
+ABOUT RahaCMS
 ------------
 
 RahaCMS is an open source content management platform supporting a variety of
